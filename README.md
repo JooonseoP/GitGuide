@@ -144,7 +144,7 @@ Git은 여러 사람이 공동된 작업을 할 때 한 프로젝트를 공유�
 이부분은 원하는 폴더(해당 폴더 안에 'git init'이 되어 있고 원격주소와 연결이 되어있다는 전제하에) 안에서 Git Bash를 통하여 들어가고   
   
 ```c
-git Pull origin master
+git pull origin master
 ```
   
 를 통하여 받을 수 있다.  
